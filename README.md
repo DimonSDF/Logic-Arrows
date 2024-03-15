@@ -11,5 +11,10 @@
 <br><br>
 
 ### [Крестики-нолики](https://logic-arrows.io/map-fAgoS31D)
-[![Крестики-нолики](png/Крестики-нолики)](https://logic-arrows.io/map-fAgoS31D)
+[![Крестики-нолики](png/Крестики-нолики.png)](https://logic-arrows.io/map-fAgoS31D)
+<br>
+Полноценные крестики нолики с несколькими режимами игры и ботом, который действительно может составить конкуренцию игроку.
+<br><br>
 
+### [Графический редактор](https://logic-arrows.io/map-_-oabI2u)
+[![Графический редактор](png/Графическийредактор.png)](https://logic-arrows.io/map-_-oabI2u)
