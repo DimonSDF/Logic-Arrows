@@ -11,5 +11,5 @@
 <br><br>
 
 ### [Крестики-нолики](https://logic-arrows.io/map-fAgoS31D)
-[![Крестики-нолики](png/Крестики-
+[![Крестики-нолики](png/Крестики-нолики)](https://logic-arrows.io/map-fAgoS31D)
 
